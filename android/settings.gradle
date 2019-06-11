@@ -1,0 +1,3 @@
+rootProject.name = 'pigeon_offline_4527'
+
+include ':app'

@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT pigeon_offline_4527.wsgi:application
